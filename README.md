@@ -217,4 +217,4 @@ The API will be available at http://localhost:8000
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or PR if you would like to help add features or fix bugs.
+Contributions are welcome! Please open an issue .
